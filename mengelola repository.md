@@ -53,7 +53,7 @@ Untuk melakukan push, gunakan perintah:
         Compressing objects: 100% (4/4), done.
         Writing objects: 100% (5/5), 18.70 KiB | 9.35 MiB/s, done.
         Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
-        To https://github.com/Nouruz219/01-git-github.git
+        To https://github.com/NotWibuu/01-git-github.git
          * [new branch]      main -> main
 
 ## Singkronasi
