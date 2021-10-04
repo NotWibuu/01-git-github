@@ -10,7 +10,7 @@ Saat menggunakan Git, kita akan dimintai untuk otentikasi. Nah, untuk proses ote
 
 Lakukan Clone repository menggunakan perintah:
 
-        $ git clone https://github.com/Nouruz219/01-git-github.git
+        $ git clone https://github.com/NotWibuu/01-git-github.git
         Cloning into '01-git-github'...
         warning: You appear to have cloned an empty repository.
 
