@@ -4,14 +4,14 @@ Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam web
 
 Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar di bawah ini.
 
-![15-screenshoot](/images/Screenshot_201.png)
+![15-screenshoot](/image/Screenshot_201.png)
 
 ## membuat repository
 
 Setelah melakukan install git, langkah selanjutnya adalah memulai untuk menggunakan Github dan membuat repository baru untuk aplikasi yang kita buat agar tersimpan dalam sistem versi kontrol dari Github.
 Pertama login di situs Github dengan username dan password anda, kemudian klik Create New Repository.
 
-![16-screenshoot](/images/Screenshot_202.png)
+![16-screenshoot](/image/Screenshot_202.png)
 
 Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
 
@@ -27,16 +27,16 @@ Setelah mengisi detail informasi di atas, klik Create Repository.
 
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 
-![17-screenshoot](/images/Screenshot_203.png)
+![17-screenshoot](/image/Screenshot_203.png)
 
 ## Buka Folder Menggunakan Git Bash
 cara install git
 
-![18-screenshoot](/images/Screenshot_204.png)
+![18-screenshoot](/image/Screenshot_204.png)
 
 Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here. Setelah itu, Command Prompt akan muncul seperti di bawah ini. 
 
-![19-screenshoot](/images/Screenshot_205.png)
+![19-screenshoot](/image/Screenshot_205.png)
 
 ## Ubah Folder Menjadi Repository
 
@@ -44,7 +44,7 @@ Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah beriku
 
 $ git init
 
-![20-screenshoot](/images/Screenshot_206.png)
+![20-screenshoot](/image/Screenshot_206.png)
 
 ## Tambahkan File ke Repository
 
@@ -65,7 +65,7 @@ $ git commit -m "first commit"
 
 Pada tutorial ini kami membuat first commit sebagai Commit pertama kami. Anda bebas membuat membuat nama Commit apa saja.
 
-![21-screenshoot](/images/Screenshot_207.png)
+![21-screenshoot](/image/Screenshot_207.png)
 
 ## Remote Repository Github
 
@@ -75,7 +75,7 @@ $ git remote add origin git@github.com:UserNameGit/NamaRepository.git
 
 Perintah di atas tidak akan menghasilkan output apa pun.
 
-![22screenshoot](/images/Screenshot_208.png)
+![22screenshoot](/image/Screenshot_208.png)
 
 ## Push ke GitHub 
 
@@ -85,8 +85,8 @@ git push -u origin master
 
 Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
 
-![23screenshoot](/images/Screenshot_209.png)
+![23screenshoot](/image/Screenshot_209.png)
 
 Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah
 
-![24screenshoot](/images/Screenshot_210.png)
+![24screenshoot](/image/Screenshot_210.png)
